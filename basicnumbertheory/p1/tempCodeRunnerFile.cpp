@@ -1,1 +1,0 @@
-void Sieve(int Prime[]){

@@ -15,10 +15,13 @@ using namespace std;
 // int CongTruIterator (vector)
 int main()
 {
-    vector<int> v = {1, 2, 3, 4, 5, 6};
-    v.assign(3, 100);
-    for(auto x : v){
-        cout << x << " ";
-    }
-    return 0;
+    // int x = 1;
+    // const int* p1 = &x;
+    // p1 = ;
+    // cout << 
+    // int x = 1;
+    // int* p = &x;
+    // cout << p << " " << *p << endl;
+    int a = -2;
+    cout << a%2 << endl;
 }
